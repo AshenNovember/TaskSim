@@ -26,7 +26,7 @@ To run from source:
 2. Open the project in Godot 4.
 3. Run `main.tscn` (or your main scene).
 
-## ☕ Support / Apoio
+## ☕ Support
 If this app helps you stay productive, consider buying me a coffee! 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashennovember)
