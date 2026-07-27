@@ -10,7 +10,6 @@
 * ⏱️ **Focus Timer:** Set your work sessions and get notified when it's time to take a break.
 * ✅ **Task Checklist:** Add your daily tasks and watch the progress bar fill up.
 * 👻 **Transparent UI:** Beautiful, unobtrusive design that blends with your wallpaper.
-* 🌐 **Bilingual:** Native support for English and Portuguese.
 
 ### 🎮 How to Use (For Regular Users)
 1. Go to the [Releases](../../releases) page.
