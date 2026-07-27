@@ -16,6 +16,8 @@
 2. Download the latest `TaskSim_v1.x.zip` file.
 3. Extract the folder, double-click `TaskSim.exe`, and start focusing!
 
+<img width="640" height="480" alt="point" src="https://github.com/user-attachments/assets/5b1fab31-2bf6-455b-a1c9-c90b626e89a8" />
+
 ---
 
 ## 🛠️ For Developers
